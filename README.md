@@ -1,4 +1,4 @@
-# PGONet: A Physics-Informed Generative Adversarial Network for Advancing Solutions in Ocean Acoustics
+# A Physics-Informed Generative Adversarial Network for Advancing Solutions in Ocean Acoustics
 
 Special thanks to the following work. We wrote the code for this project based on the open source code of this paper.
 
